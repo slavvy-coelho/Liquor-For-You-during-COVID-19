@@ -3,4 +3,9 @@ This is a small R shiny app that gives you a range of refreshments and spirits a
 
 <br>
 ### Running Instructions:
-Make a folder and store the data 'bcl-data.csv' 
+Make a folder and store the data 'bcl-data.csv' and 'app.R' in the same.
+Run the R file on the browser.
+
+Here's a snapshot of the output:
+
+
