@@ -8,7 +8,7 @@ This is a small R shiny app that gives you a range of refreshments and spirits a
 <li>Run the R file on the browser.
 </ol> <br>
 Here's a snapshot of the output: <br>
-![](git-gif.gif)
+<img src= "git-gif.gif"> </img>
 <br>
 Check out live: 
 <a href='https://slavvy-coelho-25.shinyapps.io/RaiseYourSpiritsWithSpiritsThisQuarantine/'> Click here!<b></b> </a>
