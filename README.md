@@ -9,4 +9,9 @@ This is a small R shiny app that gives you a range of refreshments and spirits a
 </ol> <br>
 Here's a snapshot of the output: <br>
 
+<br>
+
+<a href='https://slavvy-coelho-25.shinyapps.io/RaiseYourSpiritsWithSpiritsThisQuarantine/'> <b>Check out live</b> </a>
+
+
 
